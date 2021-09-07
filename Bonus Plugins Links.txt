@@ -1,0 +1,17 @@
+This is for adding free animations of Figma prototype.
+https://www.figma.com/community/plugin/809860933081065308/LottieFiles
+
+This is to Sync real content from Google sheet to your Figma design.
+https://www.figma.com/community/plugin/735770583268406934/Google-Sheets-Sync
+
+You can add vector maps of real locations to your Figma Designs.
+https://www.figma.com/community/plugin/777954172157933782/Vector-Maps
+
+You can generate and add confetti to your Figma design.
+https://www.figma.com/community/plugin/732876968584257019/Confetti
+
+Add from over 40000 free icons from 50+ icon sets to your design.
+https://www.figma.com/community/plugin/735098390272716381/Iconify
+
+You can chat with your collaborators right inside Figma.
+https://www.figma.com/community/plugin/742073255743594050/Figma-Chat
